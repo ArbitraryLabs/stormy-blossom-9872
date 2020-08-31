@@ -1,5 +1,5 @@
 ---
-title: '08 - Cloudinary Media Library'
+title: 08 - Cloudinary Media Library Cats
 date: 2020-05-18
 image: https://res.cloudinary.com/artisanstatic/photos.jpg
 comments: false
